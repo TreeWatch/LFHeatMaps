@@ -1,0 +1,3 @@
+[submodule "LFHeatMapLib/src"]
+	path = LFHeatMapLib/src
+	url = https://github.com/gpolak/LFHeatMap.git
