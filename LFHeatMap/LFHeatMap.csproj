@@ -23,7 +23,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <CustomCommands>
       <CustomCommands>
-        <Command type="BeforeBuild" name="Make Lib" command="make -f ../LFHeatMapLib/Makefile" workingdir="" />
+        <Command type="BeforeBuild" name="Make Lib" command="make ../LFHeatMapLib/Makefile" workingdir="" />
         <Command type="Clean" command="make -f ../LFHeatMapLib/Makefile clean" />
       </CustomCommands>
     </CustomCommands>
