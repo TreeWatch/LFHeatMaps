@@ -63,7 +63,8 @@
 				FFA5BF801C16FC7100EC2249 /* LFHeatMap.h */,
 				FFA5BF821C16FC7100EC2249 /* LFHeatMap.m */,
 			);
-			path = LFHeatMap;
+			name = LFHeatMap;
+			path = ../src/LFHeatMap;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,6 +249,7 @@
 				FFA5BF881C16FC7100EC2249 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

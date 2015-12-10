@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "90EEF6CEFBEF422226ECDFFAA0A38EF3B6A7220E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "90EEF6CEFBEF422226ECDFFAA0A38EF3B6A7220E" : 0,
+    "0D47F9118801513CFF1019D3260A8450871FFE19" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2FD7D168-8DB2-4A5E-942E-946580156F3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "90EEF6CEFBEF422226ECDFFAA0A38EF3B6A7220E" : "LFHeatMaps\/",
+    "0D47F9118801513CFF1019D3260A8450871FFE19" : "LFHeatMaps\/LFHeatMapLib\/src\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LFHeatMap",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LFHeatMapLib\/LFHeatMap\/LFHeatMap.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gpolak\/LFHeatMap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D47F9118801513CFF1019D3260A8450871FFE19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TreeWatch\/LFHeatMaps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90EEF6CEFBEF422226ECDFFAA0A38EF3B6A7220E"
+    }
+  ]
+}
