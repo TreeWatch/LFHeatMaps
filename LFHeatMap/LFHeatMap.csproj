@@ -14,7 +14,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
+    <Optimize>true</Optimize>
     <OutputPath>bin\Debug</OutputPath>
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
@@ -57,7 +57,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.ObjCBinding.CSharp.targets" />
   <ItemGroup>
-    <ObjcBindingNativeLibrary Include="..\..\..\LFHeatMaps\LFHeatMapLib\libLFHeatMapSDK.a">
+    <ObjcBindingNativeLibrary Include="..\LFHeatMapLib\libLFHeatMapSDK.a">
       <Link>libLFHeatMapSDK.a</Link>
     </ObjcBindingNativeLibrary>
   </ItemGroup>
